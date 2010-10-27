@@ -5,13 +5,13 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>curl -s http://github.com/mjreed/latex-skeleton/raw/master/blank.tex</string>
+	<string>curl -s http://github.com/mjreed/latex-skeleton/raw/master/blank_textmate.tex</string>
 	<key>input</key>
 	<string>none</string>
 	<key>name</key>
 	<string>Create Blank Document</string>
 	<key>output</key>
-	<string>afterSelectedText</string>
+	<string>insertAsSnippet</string>
 	<key>scope</key>
 	<string>text.tex.latex</string>
 	<key>tabTrigger</key>
