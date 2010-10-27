@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\pa The Appellant is ${1:Name and Address of Appellant}
+ 
+\pa Any communication relating to this appeal may be sent to the appellant at
+
+\begin{quote}
+	${2:Name}
+	${3:Address} 
+\end{quote}
+ 
+\pa The appellant appeals from $4
+
+\pa The parties to the proceedings before the employment tribunal, other than the appellant, were $5
+
+\pa Copies of---
+
+\begin{enumerate}
+	\item  the written record of the employment tribunal’s ${6:judgment};
+	\item the written reasons of the employment tribunal; 
+	\item the claim (ET1) and
+	\item the response (ET3)
+\end{enumerate} 
+
+\pa ${7:The appellant has not made an application for review.}
+
+\pa The grounds upon which this appeal is brought are that the employment tribunal erred in law as set out below.
+
+$0</string>
+	<key>keyEquivalent</key>
+	<string>@S</string>
+	<key>name</key>
+	<string>EAT Appeal</string>
+	<key>scope</key>
+	<string>text.tex.latex.skeleton</string>
+	<key>tabTrigger</key>
+	<string>appeal</string>
+	<key>uuid</key>
+	<string>56ECEDDF-463C-4E7E-AFA7-8CADA65B4D26</string>
+</dict>
+</plist>

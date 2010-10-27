@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>	\begin{instatquote}
+		\stat{$1}{$2}
+	\end{instatquote}</string>
+	<key>name</key>
+	<string>Inside Statutory Quote</string>
+	<key>tabTrigger</key>
+	<string>instat</string>
+	<key>uuid</key>
+	<string>11D9B526-F8A1-4AB6-B213-0E0664FC319B</string>
+</dict>
+</plist>

@@ -2,12 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>53ED3EF3-53F5-45EA-94F2-8C600D8BB4C9</string>
+			<string>56ECEDDF-463C-4E7E-AFA7-8CADA65B4D26</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
 	<key>name</key>
 	<string>Skeleton</string>
 	<key>ordering</key>
 	<array>
 		<string>53ED3EF3-53F5-45EA-94F2-8C600D8BB4C9</string>
 		<string>9E03A637-21BB-420A-8027-1230441F0623</string>
+		<string>5AC90053-A28A-40F7-8BB5-B157579B0E7B</string>
+		<string>56ECEDDF-463C-4E7E-AFA7-8CADA65B4D26</string>
+		<string>452D72F1-FCE4-4C63-8D0F-8E9727E30C24</string>
+		<string>37C27C16-16B9-4EDF-812E-3385F72E6A55</string>
+		<string>A696BCD3-9AAC-462A-9858-D15974FC2DB8</string>
+		<string>11D9B526-F8A1-4AB6-B213-0E0664FC319B</string>
 	</array>
 	<key>uuid</key>
 	<string>A91E9302-2871-4E73-A054-0318A1526F35</string>
